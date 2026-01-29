@@ -1,1 +1,1 @@
-# repo for learning JS concept and prepare for JS interview
+# Repo for learning JS concept and prepare for JS interview
